@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "next":"16.2.0-canary.4"
+    "parsel":"0.3.0"
   }
 }
